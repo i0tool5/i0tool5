@@ -12,7 +12,6 @@
   </a>
 </p>
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fi0tool5%2Fhit-counter&count_bg=%23c792ea&title_bg=%23555555&icon=debian.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false&style=plastic" />
 <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i0tool5&theme=nightowl" />
 </p>
