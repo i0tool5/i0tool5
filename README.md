@@ -11,15 +11,6 @@
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
 </p>
-
-<p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i0tool5&theme=nightowl" />
-</p>
-<p>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=i0tool5&theme=nightowl" width="420" height="240" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=i0tool5&layout=compact&theme=nightowl" width="240" height="240"/>
-</p>
-
 <h3 align="center"> ✨ Working with ✨ </h3>
 <p>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -37,7 +28,3 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 <p><i>and much more</i> :smile_cat:</p>
-<!--
-https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white
-https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=for-the-badge&logo=Cloudflare%20Pages&logoColor=white
--->
